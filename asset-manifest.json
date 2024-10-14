@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mantra-assignment/static/css/main.9276493c.css",
+    "main.js": "/mantra-assignment/static/js/main.cfcc4dec.js",
+    "static/js/453.d0c75f60.chunk.js": "/mantra-assignment/static/js/453.d0c75f60.chunk.js",
+    "index.html": "/mantra-assignment/index.html",
+    "main.9276493c.css.map": "/mantra-assignment/static/css/main.9276493c.css.map",
+    "main.cfcc4dec.js.map": "/mantra-assignment/static/js/main.cfcc4dec.js.map",
+    "453.d0c75f60.chunk.js.map": "/mantra-assignment/static/js/453.d0c75f60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9276493c.css",
+    "static/js/main.cfcc4dec.js"
+  ]
+}
